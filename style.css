@@ -1,0 +1,90 @@
+.head{
+    background-color: rgb(170, 118, 13);
+   background-image: url(https://www.societyofauthors.org/getmedia/81440ba6-4f43-4882-98ba-297e705832be/Ebook-physical-book2.aspx?width=650&height=264); 
+   width: 100%;
+   height: 150px;
+}
+.search{ 
+    border: 1px;
+    margin-bottom: 10px;
+}
+img{
+    float: left;
+    width: 300px;
+}
+.content{
+    background-color: rgb(181, 158, 127);
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bgimage{
+    background-color: black;
+    float: left;
+    background-image: url(https://c0.wallpaperflare.com/preview/484/270/562/read-book-books-book-store.jpg);
+    width: 1500px;
+    height: 450px;
+    margin-top: 3px;
+    filter: blur(3px);
+    background-size: cover;
+}
+.imgtext{
+    color: rgb(4, 157, 253);
+    text-decoration: solid;
+    border: 3px solid black;
+    position: absolute;
+    top: 40%;
+    left: 25px;
+}
+.row{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.col{
+    background-color: aliceblue;
+    width: 300px;
+    height: 300px;
+    margin-right: 60px;
+    margin-left: 60px;
+
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    }
+.books{
+    width: 100%;
+    border-radius: 10px;
+    height: 260px;
+    border: 1px solid black;
+}
+image{
+    width: 100%;
+    width: 200px;
+}
+.footer{background-image: url(https://burst.shopifycdn.com/photos/hard-cover-books-on-blue-background.jpg?width=373&format=pjpg&exif=1&iptc=1);
+    background-color: rgb(135, 135, 35);
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    text-align: center;
+    height: 50px;
+    box-shadow: 2px 3px 4px;
+}
+BUTTON:hover{
+    box-shadow: 2PX 3PX 4PX;
+    background-color: black;
+    color: aliceblue;
+}
+body{background-image: url(https://img.texasmonthly.com/2023/01/buho-local-bookstore-brownsville.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=1050&ixlib=php-3.3.1&q=45&w=1400);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.abc{
+    margin-left: 300px;
+    margin-top: 25pxx;
+    display: flex;
+}
